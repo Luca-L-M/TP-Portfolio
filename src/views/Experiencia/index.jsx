@@ -1,7 +1,12 @@
+import Card from "../../components/Card"
+
 const Experiencia = () =>{
-    <div>
-        
-    </div>
+    return(
+        <div>
+            <Card titulo={""}/>
+            <Card/>
+        </div>
+    );
 };
 
 export default Experiencia;

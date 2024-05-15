@@ -17,6 +17,6 @@ function App() {
       <Contactos/>
     </>
   );
-}
+};
 
 export default App;
