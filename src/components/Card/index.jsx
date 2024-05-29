@@ -10,9 +10,9 @@ const Card = (props) => {
                 </div>
                 <img className="card-img-top" src={props.img} alt=""></img>
             </div>
-                <div className="card-body">
-                    <p className="card-text">{props.contenido}</p>
-                </div>
+            <div className="card-body">
+                <p className="card-text">{props.contenido}</p>
+            </div>
         </div>
     );
 };

@@ -1,0 +1,8 @@
+#about
+{
+    display: flex;
+    flex-flow: nowrap;
+    justify-content: center;
+    margin-top: 7rem;
+    margin-bottom: 5rem;
+}
