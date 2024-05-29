@@ -7,7 +7,7 @@ import img3 from "../../img/BD.jpg";
 const Conocimientos = () =>{
 
     const estilo1 = {
-        flex:'0 0 auto', width:'25%', textAlign:'center !important'
+        flex:'0 0 auto', width:'25%', height:'30%', textAlign:'center !important'
     }
 
     return(
