@@ -8,7 +8,7 @@ const Card = (props) => {
                     <h5 className="card-title">{props.titulo}</h5>
                     <p className="card-subtitle">{props.subtitulo}</p>
                 </div>
-                <img className="card-img-top" src={props.img} alt=""></img>
+                <img className="card-img-top" style={props.style} src={props.img} alt=""></img>
             </div>
             <div className="card-body">
                 <p className="card-text">{props.contenido}</p>

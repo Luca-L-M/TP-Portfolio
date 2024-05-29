@@ -6,3 +6,13 @@
     margin-top: 7rem;
     margin-bottom: 5rem;
 }
+
+img
+{
+    border-radius: 20%;
+}
+.binker
+{
+    height: 20rem;
+    width: 20rem;
+}

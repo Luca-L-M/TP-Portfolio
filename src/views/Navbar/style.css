@@ -5,8 +5,10 @@ nav
   justify-content: flex-start;
   align-items: center;
   flex-wrap: nowrap;
+  height: 64px; 
   padding-top: 1rem;
   padding-bottom: 1rem;
+  margin-bottom: 64px;
   top: 0;
   right: 0;
   left: 0;
