@@ -1,10 +1,10 @@
 import './style.css';
 
-const Item = (promps) => {
+const Item = (props) => {
     return(
-        <div>
-            <img src={promps.url} alt=""></img>
-            <h2>{promps.contenido}</h2>
+        <div style={props.estilo}>
+            <img src={props.url} alt=""></img>
+            <h3>{props.contenido}</h3>
         </div>
     );
 };

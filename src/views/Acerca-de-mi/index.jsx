@@ -3,7 +3,7 @@ import Parrafo from '../../components/Parrafo';
 
 const AcercaDeMi = () =>{
     return(
-        <div>
+        <div id="about">
             <img src="./img/Yo.jpg" alt=""></img>
             <div>
                 <h2>Mi nombre es Julian Lifschits.</h2>

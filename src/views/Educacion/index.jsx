@@ -1,7 +1,10 @@
+import Card from "../../components/Card";
+
 const Educacion = () =>{
     return(
-        <div>
-        
+        <div id="Educacion">
+            <Card titulo={""}/>
+            <Card/>
         </div>
     );
 };

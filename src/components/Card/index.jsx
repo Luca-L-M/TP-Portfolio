@@ -1,17 +1,17 @@
 import './style.css'
 
-const Card = (promps) => {
+const Card = (props) => {
     return(
-        <div class="card">
-        <div class="card-header">
+        <div className="card">
+        <div className="card-header">
             <div>
-                <h5 class="card-title">{promps.titulo}</h5>
-                <p class="card-subtitle">{promps.subtitulo}</p>
+                <h5 className="card-title">{props.titulo}</h5>
+                <p className="card-subtitle">{props.subtitulo}</p>
             </div>
-            <img class="card-img-top" src={promps.img} alt=""></img>
+            <img className="card-img-top" src={props.img} alt=""></img>
         </div>
-        <div class="card-body">
-            <p class="card-text">{promps.contenido}</p>
+        <div className="card-body">
+            <p className="card-text">{props.contenido}</p>
         </div>
         </div>
     );

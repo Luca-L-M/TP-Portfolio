@@ -1,0 +1,10 @@
+#Conocimientos
+{
+    padding-top: 2rem !important;
+    padding-bottom: 2rem !important;
+    --bs-gutter-x: 1.5rem;
+    --bs-gutter-y: 0;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}

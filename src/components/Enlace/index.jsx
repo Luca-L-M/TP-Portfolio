@@ -1,5 +1,5 @@
-const Enlace = (promps) => {
-    return  <a href={promps.url}>{promps.element}</a>
+const Enlace = (props) => {
+    return  <a href={props.url} style={props.estilo}>{props.element}</a>
 };
 
 export default Enlace;

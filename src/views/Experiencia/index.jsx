@@ -1,8 +1,8 @@
-import Card from "../../components/Card"
+import Card from "../../components/Card";
 
 const Experiencia = () =>{
     return(
-        <div>
+        <div id="Experiencia">
             <Card titulo={""}/>
             <Card/>
         </div>
