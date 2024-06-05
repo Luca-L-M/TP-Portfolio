@@ -11,8 +11,6 @@ function App() {
     <>
       <Navbar/>
       <AcercaDeMi/>
-      <h1>CONOCIMIENTOS</h1>
-      <br></br>
       <Conocimientos/>
       <h1>EXPERENCIA</h1>
       <br></br>

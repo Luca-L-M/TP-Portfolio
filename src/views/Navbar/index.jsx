@@ -14,7 +14,7 @@ const Navbar = () =>{
                 <Enlace url="#about" element="Julián Lifschitz" estilo={estilo1}/>
                 <div className="ul">
                     <ul>
-                        <li><Enlace url="#Conocimientos" element="Conocimiento" estilo={estilo1}/></li>
+                        <li><Enlace url="#Conocer" element="Conocimiento" estilo={estilo1}/></li>
                         <li><Enlace url="#Experiencia" element="Experiencia" estilo={estilo1}/></li>
                         <li><Enlace url="#Educacion" element="Educacion" estilo={estilo1}/></li>
                         <li><Enlace url="#Contactos" element="Contactos" estilo={estilo1}/></li>

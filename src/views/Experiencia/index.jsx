@@ -1,3 +1,4 @@
+import './style.css';
 import Card from "../../components/Card";
 import logo_ort from "../../img/logo_ort.jpg";
 import proyecto from "../../img/proyecto.jpg";

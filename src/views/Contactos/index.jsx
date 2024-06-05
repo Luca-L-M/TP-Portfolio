@@ -1,3 +1,5 @@
+import './style.css';
+
 const Contactos = () =>{
     return(
         <div id="Contactos">

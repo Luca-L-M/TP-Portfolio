@@ -11,8 +11,14 @@ img
 {
     border-radius: 20%;
 }
+
 .binker
 {
     height: 20rem;
     width: 20rem;
+}
+
+div
+{
+    margin-top: 64px;
 }

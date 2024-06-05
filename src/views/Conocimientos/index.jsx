@@ -11,10 +11,13 @@ const Conocimientos = () =>{
     }
 
     return(
-        <div id='Conocimientos'>
-            <Item url={desarrollo_web} contenido={"Desarrollo web"} estilo={estilo1}/>
-            <Item url={img2} contenido={"Desarrollo movil"} estilo={estilo1}/>
-            <Item url={img3} contenido={"Administracion BD"} estilo={estilo1}/>
+        <div id='Conocer'>
+            <h1>CONOCIMIENTOS</h1>
+            <div id='Conocimientos'>
+                <Item url={desarrollo_web} contenido={"Desarrollo web"} estilo={estilo1}/>
+                <Item url={img2} contenido={"Desarrollo movil"} estilo={estilo1}/>
+                <Item url={img3} contenido={"Administracion BD"} estilo={estilo1}/>
+            </div>
         </div>
     );
 };
