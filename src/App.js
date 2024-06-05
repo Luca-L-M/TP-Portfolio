@@ -13,13 +13,10 @@ function App() {
       <AcercaDeMi/>
       <Conocimientos/>
       <h1>EXPERENCIA</h1>
-      <br></br>
       <Experiencia/>
       <h1>EDUCACION</h1>
-      <br></br>
       <Educacion/>
       <h1>CONTACTOS</h1>
-      <br></br>
       <Contactos/>
     </>
   );
